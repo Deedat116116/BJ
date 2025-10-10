@@ -23,6 +23,6 @@ class Person:
         self.add_money += self.money
 
     def reset_cards():
-        pass
+        return cards_value
 
 
