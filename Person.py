@@ -19,6 +19,10 @@ class Person:
         self.cards.append(card)
         self.cards_value += card.get_value()
 
+    def add_value(value):
+        self.cards_value += value
+
+
     def add_money(amount):
         self.add_money += self.money
 
