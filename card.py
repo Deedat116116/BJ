@@ -5,7 +5,6 @@ Created: <MM/DD/YYYY>
 Instructor: Holtslander
 """
 
-import pygame
 
 class Card:
     def __init__(self, suit, rank):
